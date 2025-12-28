@@ -2,7 +2,7 @@ ACNT122 Sales Analysis Project
 Project Overview
 This project focuses on performing a comprehensive Sales Analysis as part of the ACNT122 course. It involves data cleaning, descriptive statistics, and data visualization to derive meaningful insights from sales datasets.
 Lead Analyst
-• Mayyan Fawaz — Joury(Dif)
+• — Joury(Dif)
 •linkedin.com/in/joury-al-mutairi-684573357
 Key Contributions
 As the primary contributor to this repository, I handled:
